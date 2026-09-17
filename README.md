@@ -37,9 +37,6 @@ Trained as a systems engineer — now building backends, RAG pipelines, and the 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karishma-r-h&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Karishma's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma-r-h&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=Karishma-r-h&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
